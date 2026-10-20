@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Robosapiens-AKD: INTO-CPS Case Study for Anchor-based Knowledge Distillation"
+message: "If you use this repository, please cite the paper below."
+type: software
+authors:
+  - family-names: "Spanos"
+    given-names: "Dimitrios"
+    affiliation: "CIDL Group, Aristotle University of Thessaloniki (AUTH)"
+repository-code: "https://github.com/INTO-CPS-Association/robosapiens-AKD"
+license: "Apache-2.0"
+version: "1.0.0"
+date-released: 2026-10-20
+preferred-citation:
+  type: article
+  title: "Trustworthy Knowledge Distillation via Anchor-Guided Distribution Learning"
+  authors:
+    - family-names: "Spanos"
+      given-names: "Dimitrios"
+    - family-names: "Passalis"
+      given-names: "Nikolaos"
+    - family-names: "Tefas"
+      given-names: "Anastasios"
+  journal: "Knowledge-Based Systems"
+  start: 114297
+  year: 2025
+  publisher:
+    name: "Elsevier"

@@ -1,0 +1,12 @@
+torch
+torchvision
+numpy
+scipy
+scikit-learn
+scikit-learn-extra
+matplotlib
+seaborn
+prettytable
+tensorboard_logger
+ipdb
+Pillow
